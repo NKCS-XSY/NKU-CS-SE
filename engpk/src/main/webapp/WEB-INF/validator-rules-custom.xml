@@ -7,7 +7,7 @@
    <global>
 
       <validator name="twofields"
-         classname="com.xsy.webapp.util.ValidationUtil"
+         classname="com.nku.webapp.util.ValidationUtil"
          method="validateTwoFields"
          methodParams="java.lang.Object,
                        org.apache.commons.validator.ValidatorAction,
